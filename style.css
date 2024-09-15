@@ -66,6 +66,10 @@ h1 {
     font-weight: 800;
 }
 
+h1:hover {
+    color: #F4D04E;
+}
+
 .description {
     font-size: 14px;
     margin-bottom: 24px;
